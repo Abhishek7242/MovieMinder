@@ -3,7 +3,7 @@ let next = document.getElementById('nextbtnbox').querySelector('#nextbtn');
 let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn');
 
 let action = [
-  { movieName: "Pati Patni or Panga (2020)", image: "patipatniorpanga.jpg", info: "IMDb : 6.2/10 Season (1) Comedy,Romance ,Family", link: 'https://m.dotmovies.boats/download-pati-patni-aur-panga-2020-season-1-hindi-complete-mx-original-web-series-480p-720p-hdrip/' },
+  { movieName: "18+ The Idol (2023)", image: "theidol.jpg", info: "IMDb : 5.5/10", link: 'https://m.vegamovies.tips/download-the-idol-2023-season-1-hbo-original-web-series-720p-1080p-web-dl/' },
 
   // ... rest of the movie data ...
 ];
