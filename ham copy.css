@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* color: white; */
+box-sizing: border-box;
+}
+body{
+    /* height: 1000px; */
+}
+#nav{
+   display: none;
+
+}
+
+#logonav{
+    position: sticky;
+    top: 0;
+    background-color:rgb(0, 0, 0);
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    height: 70px;
+}
+
+#logonav h1{
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-left: 9px;
+    color:white;
+}
+#secondnav{
+    width: 100%;
+    position: fixed;
+    /* top: 0; */
+}
+a {
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255); */
+    /* border-bottom: 1px solid black; */
+    margin: 6px 0;
+    /* padding: 0 10px; */
+    /* font-size: 1.1em; */
+}
+#secondnav ul{
+    background-color: aqua;
+    box-shadow: 0px 0px 9px rgb(0, 0, 0);
+
+    display: flex;
+
+    height: 40px;
+    align-items: center;
+}
+h2{
+    margin-left:  9px;
+}
+#innernav{
+    /* margin: 22px 0; */
+    position: absolute;
+    display: none;
+}
+#innernav ul {
+    display: flex;
+    box-shadow: 3px 3px 4px rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0,0.4);
+
+    height: 90vh;
+    overflow-y: scroll;
+    flex-direction: column;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+.h3{
+    color: black;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    padding: 9px 3px;
+
+    margin: 0 19px;
+}
+h3{
+    padding: 9px 3px;
+}
+#genre div img{
+    margin-top: 6px;
+}
+#genre div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: black;
+    text-align: end;
+}
+
+#genre:hover{
+    background-color: rgb(0, 185, 185);
+}
+ul li{
+    display: flex;
+    justify-content: start;align-items: end;
+    padding: 9px;
+    width: 200px;
+    list-style: none;
+}
+
+#ul{
+}
+
+.h3:hover{
+    background-color: rgb(0, 188, 195);
+
+}
+#ul li:hover{
+color: white;
+background-color: black;
+}
+ul p{
+    display: flex;
+    justify-content: center;align-items: end;
+    margin: 9px;
+    list-style: none;
+}
+
+a{
+    /* color: white; */
+    color: white;
+    text-decoration: none;
+}
+
+.rotate{
+    transform: rotate(90deg);
+}
+
+.flex{
+
+    display: flex;
+}
