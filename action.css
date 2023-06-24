@@ -16,7 +16,7 @@
 *{
     margin: 0;
     padding: 0;
-/*     font-size: 1rem; */
+    /* font-size: 1rem; */
     /* box-sizing: border-box; */
 }
 .link{
@@ -32,7 +32,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 360px;
+    height: 400px;
     margin:22px;
 
     width: 210px;
@@ -45,7 +45,7 @@
 @media only screen and (max-width: 500px) {
 
     .imgbox {
-        height: 305px;
+        height: 345px;
         width: 164px;
         margin:9px;
     }
