@@ -4,8 +4,10 @@ let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn
 
 let action = [
   { movieName: "Don't Listen (2020)", image: "dontlisten.jpg", info: "IMDb : 6.1/10", link: 'https://m.vegamovies.tips/download-dont-listen-2020-english-audio-480p-720p/' },
-  { movieName: "The Invisible Guest (2016)", image: "theinvisibleguest.jpg", info: "IMDb : 8/10", link: 'https://m.vegamovies.tips/download-the-invisible-guest-2016-hindi-dual-audio-full-movie/' },
+  { movieName: "In the Shadow of the Moon (2019) ", image: "https://m.media-amazon.com/images/M/MV5BN2I1MGQ2ZjMtMjc1My00YzU1LThjNzktNzJlMWRkMTc0NjZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg", info: "IMDb : 6.2/10", link: 'https://m.vegamovies.tips/download-in-the-shadow-of-the-moon-2019-dual-audio-hindi-480p-720p-1080p/' },
   { movieName: "Mirage (2018)", image: "mirage.jpg", info: "IMDb : 7.4/10", link: 'https://m.vegamovies.tips/download-mirage-2018-hindi-english-movie-480p-720p-1080p/' },
+  { movieName: "The Invisible Guest (2016)", image: "theinvisibleguest.jpg", info: "IMDb : 8/10", link: 'https://m.vegamovies.tips/download-the-invisible-guest-2016-hindi-dual-audio-full-movie/' },
+  { movieName: "The Unhealer (2020) ", image: "https://m.media-amazon.com/images/M/MV5BNWFjMTA0Y2UtMTMyNC00NWMxLTliNTYtMDRhNWRjZmYyOWU5XkEyXkFqcGdeQXVyMjI0MDA1MA@@._V1_FMjpg_UX1000_.jpg", info: "IMDb : 5.6/10", link: 'https://www.google.com/search?q=the+unhealer+movie+download&source=lmns&bih=752&biw=1536&hl=en&sa=X&ved=2ahUKEwi-zL_Yt-D_AhWriGMGHWTXA6AQ_AUoAHoECAEQAA' },
 
 
 

@@ -4,6 +4,8 @@ let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn
 
 let action = [
   { movieName: "Don't Listen (2020)", image: "dontlisten.jpg", info: "IMDb : 6.1/10", link: 'https://m.vegamovies.tips/download-dont-listen-2020-english-audio-480p-720p/' },
+  { movieName: "Nope (2022)", image: "https://www.uphe.com/sites/default/files/styles/scale__319w_/public/2022/09/Nope_DigitalArt.webp?itok=BI6vIeYH", info: "IMDb : 6.8/10", link: 'https://m.vegamovies.tips/download-nope-2022-imax-bluray-dual-audio-hindi-480p-720p-1080p-2160p-4k/' },
+  { movieName: "Synchronic (2019)", image: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Synchronic_poster.jpeg/220px-Synchronic_poster.jpeg", info: "IMDb : 6.2/10", link: 'https://m.vegamovies.tips/synchronic-2020-full-movie-in-hindi-dubbed/' },
 
 
 

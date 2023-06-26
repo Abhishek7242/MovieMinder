@@ -3,6 +3,7 @@ let next = document.getElementById('nextbtnbox').querySelector('#nextbtn');
 let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn');
 
 let action = [
+  { movieName: "Mortal Kombat (2021)", image: "https://m.media-amazon.com/images/M/MV5BYjZmMjdlNDEtOGE0NC00MmQyLWIyNTgtMzc1NWRjYTYzMWZmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", info: "IMDb : 6.1/10", link: 'https://m.vegamovies.tips/download-mortal-kombat-2021-dual-audio-hindi-bluray-480p-720p-1080p-2160p/' },
 
 
 

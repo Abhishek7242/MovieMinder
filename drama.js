@@ -4,6 +4,8 @@ let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn
 
 let action = [
   { movieName: "Mirage (2018)", image: "mirage.jpg", info: "IMDb : 7.4/10", link: 'https://m.vegamovies.tips/download-mirage-2018-hindi-english-movie-480p-720p-1080p/' },
+  { movieName: "The Adam Project (2022) ", image: "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg", info: "IMDb : 6.7/10", link: 'https://m.vegamovies.tips/download-the-adam-project-2022-dual-audio-hindi-480p-720p-1080p-2160p/' },
+  { movieName: "The Wandering Earth (2019) ", image: "https://m.media-amazon.com/images/M/MV5BMWQ1ZTI1ZjEtM2RkNC00MDIxLWI2NTMtMjgyN2ZkZjYwMDYwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", info: "IMDb : 5.9/10", link: 'https://m.vegamovies.tips/download-the-wandering-earth-2019-english-movie-480p-720p-1080p/' },
 
 
 

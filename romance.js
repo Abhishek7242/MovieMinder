@@ -3,6 +3,7 @@ let next = document.getElementById('nextbtnbox').querySelector('#nextbtn');
 let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn');
 
 let action = [
+  { movieName: "The In Between (2022)", image: "https://m.media-amazon.com/images/M/MV5BNGRjNWUxMzgtM2ZhZC00NmI3LThiNWEtNGFkNDk4OWRmYWI4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg", info: "IMDb : 5.9/10", link: 'https://m.vegamovies.tips/download-the-in-between-2022-dual-audio-hindi-480p-720p-1080p/' },
  
 
 
