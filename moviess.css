@@ -23,7 +23,29 @@ margin: 9px;
 display: flex;justify-content: center;
 align-items: center;
 }
+#nextbtn{
+font-weight: bold;
+        border-radius: 6px;
+            background: lime;
+            box-shadow: 0 0 2px black;
+        
+            width: 85px;
+            font-size: 1rem;
+            border: 0;
+}
+#previousbtn{
+        border-radius: 6px;
+            background: rgb(255, 0, 0);
+            box-shadow: 0 0 3px black;
+            display: flex;
+                justify-content: center;
+                align-items: center;
+            width: 85px;
+            font-size: 1rem;
+            border: 0;
+}
 .btn{
+   
     margin: 9px;
     padding: 4px 6px;
 }
