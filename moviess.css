@@ -44,6 +44,12 @@ font-weight: bold;
             font-size: 1rem;
             border: 0;
 }
+#nextbtn:hover,#nextbtn:active{
+background: rgb(0, 160, 0);
+}
+#previousbtn:hover,#previousbtn:active{
+background: rgb(160, 0, 0);
+}
 .btn{
    
     margin: 9px;
