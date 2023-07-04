@@ -3,6 +3,7 @@ let next = document.getElementById('nextbtnbox').querySelector('#nextbtn');
 let previous = document.getElementById('nextbtnbox').querySelector('#previousbtn');
 
 let action = [
+  { movieName: "127 Hours (2010)", image: "https://m.media-amazon.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1_.jpg", info: "IMDb : 7.5/10", link: 'https://vegamovies.gold/download-127-hours-2010-bluray-hindi-dubbed-full-movie-480p-720p/' },
   { movieName: "Dolittle (2020)", image: "https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg", info: "IMDb : 5.6/10", link: 'https://m.vegamovies.tips/download-dolittle-dual-audio-full-movie-480p-720p-1080p/' },
   { movieName: "Elektra (2005) ", image: "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Elektra_teaser.jpg/220px-Elektra_teaser.jpg", info: "IMDb : 4.7/10", link: 'https://m.vegamovies.tips/download-elektra-2005-dual-audio-hindi-movie-480p-720p/' },
   { movieName: "Gods of Egypt (2016) ", image: "https://upload.wikimedia.org/wikipedia/en/2/2f/Gods_of_Egypt_poster.jpg", info: "IMDb : 5.4/10", link: 'https://m.vegamovies.tips/download-gods-of-egypt-2016-dual-audio-hindi-movie-480p-720p-1080p/' },
